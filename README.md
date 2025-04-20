@@ -1,10 +1,6 @@
 # A Tour of C++ (第二版) 中文翻译
 
-本项目是基于 [windsting/a-tour-of-cpp-2nd-cn](https://windsting.github.io/a-tour-of-cpp-2nd-cn/) 的重新构建版本。
-
-## 项目说明
-
-本项目是 Bjarne Stroustrup 所著的《A Tour of C++》第二版的中文翻译版本。本书旨在为读者提供一个简洁而全面的 C++ 语言概览。
+本项目是基于 [windsting/a-tour-of-cpp-2nd-cn](https://windsting.github.io/a-tour-of-cpp-2nd-cn/) 的重新构建版本。采用Gitbook构建，仅供个人学习参考。
 
 ## 许可协议
 
@@ -20,14 +16,6 @@
 * **署名** — 您必须给出适当的署名，提供指向本许可协议的链接，同时标明是否作了修改
 * **非商业性使用** — 您不得将本作品用于商业目的
 * **没有附加限制** — 您不得适用法律术语或者技术措施从而限制其他人做许可协议允许的事情
-
-## 构建说明
-
-本项目使用 GitBook 构建，您可以通过以下步骤在本地运行：
-
-1. 安装 GitBook CLI
-2. 克隆本仓库
-3. 运行 `gitbook serve` 启动本地服务器
 
 ## 致谢
 
