@@ -19,10 +19,4 @@
 
 ## 致谢
 
-感谢原译者 [windsting](https://github.com/windsting) 的翻译工作。
-
->If you like this project, please consider 
-
-以下是原译者的捐赠渠道
-
-<a href="https://www.buymeacoffee.com/windstings"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=windstings&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+感谢译者 [windsting](https://github.com/windsting) 的翻译工作。支持[译者](https://www.buymeacoffee.com/windstings)。
